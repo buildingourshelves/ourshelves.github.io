@@ -20,7 +20,7 @@ header_text: Building Our Shelves
 
 # find an image for your own home page and put it into the images folder
 header_feature_image: /images/booktree.jpg
-twitter_username: @_julieellen  #change to your own twitter account
+twitter_username: _julieellen  #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
