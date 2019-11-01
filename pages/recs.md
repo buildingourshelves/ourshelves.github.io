@@ -12,5 +12,5 @@ description:
 
 # Authors I Love
 ## Picture Books
-[![Mo Willems](/images/mo_willems_header1.png)](/images/mo_willems_header1.png)
+[![Mo Willems](//images/2019/11/mo_willems_header1.png)](//images/2019/11/mo_willems_header1.png)
 ## Young Readers
