@@ -7,7 +7,7 @@ description: "A place to find great books for children of all ages." # used by s
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: assets/img/bookladder.jpg
+avatar: /images/bookladder.jpg
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
