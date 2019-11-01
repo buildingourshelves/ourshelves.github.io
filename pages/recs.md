@@ -1,12 +1,16 @@
 ---
 layout: page
-title: About
+title: Recommendations
 subtitle:  #optional sub title to the post
-permalink: /about/
+permalink: /recs/
 header_feature_image:  /images/ivy.jpg #replace this for yours
 tags:
 published: true
 description:
 ---
 
-Julie is working towards her MA Publishing Media at Oxford Brookes University. She is passionate about children's publishing and improving accessibility from within the publishing industry.
+
+# Authors I Love
+## Picture Books
+[![Mo Willems](/images/mo_willems_header1.png)](/images/mo_willems_header1.png)
+## Young Readers
